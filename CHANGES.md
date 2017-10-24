@@ -14,6 +14,7 @@ v0.12.0 (unreleased)
 * Added support for plotting vectors in the scatter plot viewer. [#1410]
 
 * Added glue plugins to the Version Information dialog. [#1427]
+* Data with WCS is prioritized when merging datasets. This guarantees that WCS coords are used when available.
 
 v0.11.2 (unreleased)
 --------------------
